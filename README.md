@@ -1,7 +1,7 @@
 # KD240 PWM LED
 + This article mainly explains how to implement a breathing light effect on the KD240
 
-**Last update: 2024/03/07**
+**Last update: 2024/05/18**
 - [x] **Achieve with Vivado & Vitis Design Flow**
 - [x] **Achieve with PYNQ Design Flow**
 
